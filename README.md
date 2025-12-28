@@ -6,7 +6,7 @@ Each notebook is meant to feel like the kinds of problems you might see in an in
 
 ## Announcement
 
-I'm publishing a new post every week throughout 2026. Check back regularly for the latest updates!
+I'm publishing a new notebook every week throughout 2026. Check back regularly for the latest updates!
 
 ## Notebooks
 
