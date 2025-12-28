@@ -4,6 +4,10 @@ This repo is a small collection of live-coding style exercises for practicing **
 
 Each notebook is meant to feel like the kinds of problems you might see in an interview, on a whiteboard, or in a workshop: short, focused, and built around **small, composable helper functions** with clear assumptions.
 
+## Announcement
+
+I'm publishing a new post every week throughout 2026. Check back regularly for the latest updates!
+
 ## Notebooks
 
 All notebooks live in the `notebooks/` folder.
